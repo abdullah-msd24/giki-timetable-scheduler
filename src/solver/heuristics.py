@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import random
 from collections.abc import Iterable
+from datetime import time as dt_time
 
 from src.models.course import CourseSession
 from src.solver.constraints import AssignmentOption, is_assignment_consistent
@@ -54,8 +55,29 @@ def order_domain_values(
 	"""
 	values = list(domains.get(course, []))
 	if not use_lcv:
+		course_semester = str(getattr(course, "semester", "")).strip()
+		prefers_morning = course_semester in {"1", "2"}
+		course_type = (getattr(course, "course_type", "lecture") or "lecture").strip().lower()
+		ideal_capacity = 15 if course_type == "lab" else 30
+
+		def soft_score(option: AssignmentOption) -> tuple[float, str, int, object, object]:
+			timeslot_score = 0.0
+			if prefers_morning:
+				start_time = option.timeslot.start_time
+				if start_time < dt_time(12, 0):
+					timeslot_score = -2.0
+			capacity_score = abs(option.room.capacity - ideal_capacity) / 100.0
+			total_score = timeslot_score + capacity_score
+			return (
+				total_score,
+				option.room.room_id,
+				DAY_RANK.get(option.timeslot.day, 99),
+				option.timeslot.start_time,
+				option.timeslot.end_time,
+			)
+
 		random.shuffle(values)
-		return values
+		return sorted(values, key=soft_score)
 
 	# Randomize first so equal-scored options do not always favor the same room.
 	random.shuffle(values)
