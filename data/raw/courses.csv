@@ -1,0 +1,378 @@
+code,section,title,credit_hours,type,instructor,program,capacity
+AF451,A,Accounting Information Systems,3,lecture,Mr. Muhammad Ahmad Zaka,MGS,20
+AF452,A,Auditing,3,lecture,Mr. Muhammad Ahmad Zaka,MGS,20
+AI201L,A,Programming for AI Lab 1,1,lab,Abu Bakar Siddique,BAI,50
+AI311,A,Knowledge Representation and Problem Solving,2,lecture,Dr. Khurram,BAI,55
+AI321,A,Machine Learning,3,lecture,Dr. Ali Imran Sandhu,BAI,55
+AI321L,A,Machine Learning Lab,1,lab,Mr. Asim Shah,BAI,55
+AI406L,A,Professional in AI Training Lab,1,lab,Touqeer Abbas,BAI,45
+AI423,A,Object Oriented Analysis and Design,3,lecture,Mr. Hafiz Qasim,BAI,30
+AI4xx,A,Elective 2: Data Science,3,lecture,Mr. Talha Ashfaq,BAI,30
+CE211,B,Circuit Analysis,3,lecture,Dr. Fahad Bin Muslim,BCE,40
+CE211L,B,Circuit Analysis Lab,1,lab,Engr. M. Shakaib Khan,BCE,40
+CE221,A,Digital Logic Design,3,lecture,Dr. Adnan Shah,BAI,50
+CE221,B,Digital Logic Design,3,lecture,Dr. Waqar Ahmad,BCE,40
+CE221,C,Digital Logic Design,3,lecture,Mr. Ahsan Shah,BCS,50
+CE221,D,Digital Logic Design,3,lecture,Prof. Dr. Qadeer ul Hasan,BDS,50
+CE221,E,Digital Logic Design,3,lecture,Dr. Sahab Haider,CYS,40
+CE221,F,Digital Logic Design,3,lecture,Dr. Adnan Shah,SE,50
+CE221L,A1,Digital Logic Design Lab Sec-1,1,lab,Muhammad Ishaq,BAI,25
+CE221L,A2,Digital Logic Design Lab Sec-2,1,lab,Muhammad Ishaq,BAI,25
+CE221L,B1,Digital Logic Design Lab,1,lab,Engr. Irfan Ullah,BCE,20
+CE221L,C,Digital Logic Design Lab Sec-1,1,lab,Waheed Iqbal,BCS,25
+CE221L,D1,Digital Logic Design Lab Sec-1,1,lab,Engr. M. Abu Bakar,BDS,25
+CE221L,D2,Digital Logic Design Lab Sec-2,1,lab,Engr. M. Abu Bakar,BDS,25
+CE221L,E,Digital Logic Design Lab Sec-1,1,lab,TBD,CYS,20
+CE221L,F1,Digital Logic Design Lab Sec-1,1,lab,TBD,SE,50
+CE221L,F2,Digital Logic Design Lab Sec-2,1,lab,TBD,SE,50
+CE324,B,Microprocessor Interfacing,3,lecture,Dr. Fahad Bin Muslim,BCE,40
+CE324L,B1,Microprocessor Interfacing Lab Sec-1,1,lab,Engr. Abbas Khan,BCE,40
+CE324L,B2,Microprocessor Interfacing Lab Sec-2,1,lab,Engr. Abbas Khan,BCE,40
+CE341,B,Signals and Systems,3,lecture,Dr. Muhammad Hanif,BCE,40
+CE341L,B,Signals and Systems Lab,1,lab,Engr. Zaheer Ahmad,BCE,40
+CE408,E,Cloud and Distributed Computing,3,lecture,TBA,CYS,45
+CE413,A,Computer Communications and Networks,3,lecture,Dr. Sarah,BAI,45
+CE413L,A,Computer Communications and Networks Lab,1,lab,Ms. Eisha ter Raazia Mir,BAI,45
+CE436,B,Digital System Design,3,lecture,Dr. Waqar Ahmad,BCE,30
+CE436L,B,Digital System Design Lab,1,lab,Engr. Abbas Khan,BCE,30
+CE442,B,Computational Methods and Techniques,3,lecture,Dr. Shahab Ansari,BCE,30
+CE442L,B,Computational Methods and Techniques Lab,1,lab,Engr. Ali Husnain,BCE,30
+CE461,B,Digital Signal Processing,3,lecture,Dr. Shahab Ansari,BCE,30
+CE461L,B,Digital Signal Processing Lab,1,lab,Engr. Irfan Ullah,BCE,30
+CS101,A,Computing and AI,2,lecture,Mr. Usama Manzoor,BME,100
+CS101,B,Computing and AI,2,lecture,Ms. Beenish Urooj,CVE,100
+CS101,C,Computing and AI,2,lecture,Ms. Beenish Urooj,CME,105
+CS101,D,Computing and AI,2,lecture,Mr. Waheed,BEE1,75
+CS101,E,Computing and AI,2,lecture,Mr. Waheed,BEE2,75
+CS101,F,Computing and AI,2,lecture,Mr. Qasim Riaz,BAI,50
+CS101,G1,Computing and AI,2,lecture,Dr. Rashid Jillani,CYS,55
+CS101,G2,Computing and AI,2,lecture,Dr. Shahab Haider,SE,55
+CS101,H1,Computing and AI Sec 1,2,lecture,Mr. Sajid,BCS1,50
+CS101,H2,Computing and AI Sec 2,2,lecture,Mr. Sajid,BCS2,50
+CS101,I,Computing and AI,2,lecture,Ms. Rabbia Hassan,BDS,60
+CS101,J,Computing and AI,2,lecture,Ms. Rabbia Hassan,BCE,40
+CS101,K,Computing and AI,2,lecture,Dr. Zoya Maqsood Alam,MGS1,75
+CS101,L,Computing and AI,2,lecture,Ms. Laraib Noor,MGS2,75
+CS101L,A,Computing and AI Lab,1,lab,TBA,BME,100
+CS101L,B,Computing and AI Lab,1,lab,TBA,CVE,100
+CS101L,C,Computing and AI Lab,1,lab,Engr. Zaheer Ahmad,CME,105
+CS101L,D,Computing and AI Lab,1,lab,Ms. Aneeqa Ramzan,BEE1,75
+CS101L,E,Computing and AI Lab,1,lab,TBA,BEE2,75
+CS101L,F,Computing and AI Lab,1,lab,Ms. Aneeqa Ramzan,BAI,50
+CS101L,G1,Computing and AI Lab,1,lab,Ms. Arooba Saeed,CYS,55
+CS101L,G2,Computing and AI Lab,1,lab,TBD,SE,55
+CS101L,H1,Computing and AI Lab Sec 1,1,lab,Muhammad Naeem,BCS1,50
+CS101L,H2,Computing and AI Lab Sec 2,1,lab,Abu Bakar Siddique,BCS2,50
+CS101L,I,Computing and AI Lab,1,lab,Ms. Iqra Mueed,BDS,60
+CS101L,J,Computing and AI Lab,1,lab,Ms. Anmol Sanaullah Khan,BCE,40
+CS101L,K,Computing and AI Lab,1,lab,Engr. M. Shakaib Khan,MGS1,75
+CS101L,L,Computing and AI Lab,1,lab,Ms. Iqra Mueed,MGS2,75
+CS202,A,Information and Communication Technologies,2,lecture,Mr. Talha Ashfaq,BAI,50
+CS202,B,Information and Communication Technologies,2,lecture,Prof. Dr. S. M. Hasan Zaidi,BCE,40
+CS202,C,Information and Communication Technologies,2,lecture,Mr. Talha Ashfaq,BCS,50
+CS202,D,Information and Communication Technologies,2,lecture,Ms. Rabbia Hassan,BDS,50
+CS202,E,Information and Communication Technologies,2,lecture,Dr. Zain,CYS,40
+CS202,F,Information and Communication Technologies,2,lecture,Mr. Huzaifa,SE,50
+CS221,A,Data Structures and Algorithms,3,lecture,Mr. Qasim Riaz,BAI,50
+CS221,B,Data Structures and Algorithms,3,lecture,Prof. Dr. Ahmar Rashid,BCE,40
+CS221,C,Data Structures and Algorithms,3,lecture,Dr. Qamar Abbas,BCS,50
+CS221,D,Data Structures and Algorithms,3,lecture,Prof. Dr. Masroor Hussain,BDS,50
+CS221,E,Data Structures and Algorithms,3,lecture,Dr. Zubair,CYS,40
+CS221,F,Data Structures and Algorithms,3,lecture,Mr. Said Nabi,SE,50
+CS221L,A,Data Structures and Algorithms Lab,1,lab,Muhammad Naeem,BAI,50
+CS221L,B2,Data Structures and Algorithms Lab,1,lab,Engr. Adnan Haider,BCE,20
+CS221L,C,Data Structures and Algorithms Lab,1,lab,TBD,BCS,25
+CS221L,D,Data Structures and Algorithms Lab,1,lab,Ms. Umme Rubab Hashmi,BDS,50
+CS221L,E,Data Structures and Algorithms Lab,1,lab,TBD,CYS,40
+CS221L,F,Data Structures and Algorithms Lab,1,lab,TBD,SE,50
+CS231,A,Discrete Mathematics,3,lecture,Mr. Hafiz Qasim,BAI,50
+CS231,B,Discrete Mathematics,3,lecture,Mr. Badre Munir,BCE,40
+CS231,C,Discrete Mathematics,3,lecture,Mr. Hafiz Qasim,BCS,50
+CS231,D,Discrete Mathematics,3,lecture,Mr. Badre Munir,BDS,50
+CS231,E,Discrete Mathematics,3,lecture,Mr. Salman Ashraf,CYS,40
+CS231,F,Discrete Mathematics,3,lecture,Mr. Salman Ashraf,SE,50
+CS311,A,Operating Systems,3,lecture,Dr. Sarah,BAI,55
+CS311,B,Operating Systems,3,lecture,Mr. Badre Munir,BCE,40
+CS311,C,Operating Systems,3,lecture,Dr. Taj,BCS,40
+CS311,D,Operating Systems,3,lecture,Ms. Safia Baloch,BDS,50
+CS311,E,Operating Systems,3,lecture,Mr. Huzaifa,CYS,40
+CS311,F,Operating Systems,3,lecture,Mr. Huzaifa,SE,45
+CS311L,A,Operating Systems Lab,1,lab,Ms. Eisha ter Raazia Mir,BAI,55
+CS311L,B,Operating Systems Lab,1,lab,Engr. Ali Husnain,BCE,40
+CS311L,C,Operating Systems Lab,1,lab,TBD,BCS,20
+CS311L,E,Operating Systems Lab,1,lab,Ms. Mah Rukh,CYS,40
+CS311L,F,Operating Systems Lab,1,lab,Mr. Khizar Khan,SE,45
+CS325,A,Software Engineering,3,lecture,Ms. Beenish,BAI,55
+CS325,B,Software Engineering,3,lecture,Ms. Basma Nasir,BCE,40
+CS325,C,Software Engineering,3,lecture,Mr. Israr,BCS,40
+CS325,E,Software Engineering,3,lecture,Ms. Laraib Afzal,CYS,40
+CS331,D,Software Engineering and Project Management,3,lecture,TBA,BDS,50
+CS331L,D,Software Engineering and Project Management Lab,1,lab,Ms. Umme Rubab Hashmi,BDS,50
+CS351,C,Artificial Intelligence,3,lecture,Dr. Khurram,BCS,40
+CS351,D,Artificial Intelligence,3,lecture,Dr. Ayaz Umer,BDS,50
+CS351,E,Artificial Intelligence,3,lecture,Mr. Ahmed Nawaz,CYS,40
+CS351,F,Artificial Intelligence,3,lecture,Mr. Ahmed Nawaz,SE,45
+CS351L,C,Artificial Intelligence Lab,1,lab,Mr. Asim Shah,BCS,20
+CS351L,D,Artificial Intelligence Lab,1,lab,Ms. Memoona Saleem,BDS,50
+CS351L,E,Artificial Intelligence Lab,1,lab,Ms. Arooba Saeed,CYS,40
+CS351L,F,Artificial Intelligence Lab,1,lab,TBD,SE,45
+CS361,C,Computer Architecture,3,lecture,Mr. Waheed,BCS,40
+CS361L,C,Computer Architecture Lab,1,lab,TBD,BCS,40
+CS372,F,HCI and UI/UX Graphics,3,lecture,Mr. Salman Ashraf,SE,45
+CS391,A,Entrepreneurship and Technology Commercialization,3,lecture,Dr. Fahd Sikandar,BAI,55
+CS391,B,Entrepreneurship and Technology Commercialization,3,lecture,Mr. Usama Manzoor,BCE,40
+CS391,C,Entrepreneurship and Technology Commercialization,3,lecture,Dr. Fahd Sikandar,BCS,40
+CS391,D,Entrepreneurship and Technology Commercialization,3,lecture,Mr. Hafiz S.M. Muslim,BDS,50
+CS391,E,Entrepreneurship and Technology Commercialization,3,lecture,TBA,CYS,40
+CS391,F,Entrepreneurship and Technology Commercialization,3,lecture,TBA,SE,45
+CS413,C,Elective 1: Internet of Things,3,lecture,Dr. Qamar Abbas,BCS,45
+CS417,A,Parallel Processing and Distributed Computing,3,lecture,Dr. Taj,BAI,45
+CS423,C,Elective 2: DevOps,3,lecture,Mr. Sajid,BCS,45
+CS429,C,Software Project Management,3,lecture,Mr. Israr,BCS,45
+CS461,E,Elective I: Computer Architecture,3,lecture,Prof. Dr. Ghulam Abbas,CYS,45
+CS478,A,Design and Analysis of Algorithms,3,lecture,Mr. Ahsan Shah,BAI,45
+CS478,C,Design and Analysis of Algorithms,3,lecture,Mr. Ahsan Shah,BCS,45
+CS481,A,Senior Design Project 1,3,lecture,Mr. Israr,BAI,45
+CS481,B,Senior Design Project,3,lecture,Mr. Usama Manzoor,BCE,30
+CS481,C,Senior Design Project 1,3,lecture,Mr. Israr,BCS,45
+CS481,D,Senior Design Project 1,3,lecture,Mr. Usama Manzoor,BDS,40
+CY331,E,Information Assurance,3,lecture,Dr. Zain,CYS,40
+CY451,,Vulnerability Assessment,3,lecture,Mr. Ahmed Nawaz,CYS,45
+CY451L,,Vulnerability Assessment Lab,1,lab,Mr. Khizar Khan,CYS,45
+CY482,,Design Project 2,3,lecture,Ms. Laraib Afzal,CYS,45
+CY4xx,E,Cyber Security Elective I,3,lecture,Dr. Zubair,CYS,45
+DS341,,Data Mining,3,lecture,Dr. Ayaz Umer,BDS,50
+DS461,D,Big Data Analytics,3,lecture,Ms. Safia Baloch,BDS,40
+DS461L,D,Big Data Analytics Lab,1,lab,Engr. Adnan Haider,BDS,40
+DS4xx,D,DS Specialization Elective 1,3,lecture,Engr. Asima Sarwar,BDS,40
+DS4xx,D,DS Specialization Elective 2,3,lecture,Mr. Hafiz S.M. Muslim,BDS,40
+DS4xx,,Data Visualization,2,lecture,Ms. Fatima Khalid,BDS,40
+DS4xxL,D,Data Visualization Lab,1,lab,Ms. Anmol Sanaullah Khan,BDS,40
+EE201,,Applied Electrical Engineering,3,lecture,Dr. Memoon Sajid,CME,50
+EE211,A,Linear Circuit Analysis,3,lecture,Dr. Hadeed Ahmed Sher,BEE1,35
+EE211,B,Linear Circuit Analysis,3,lecture,Dr. Hadeed Ahmed Sher,BEE2,35
+EE221,A,Digital Logic Design,3,lecture,Dr. Memoon Sajid,BEE1,35
+EE221,B,Digital Logic Design,3,lecture,Dr. Memoon Sajid,BEE2,35
+EE222,A,Data Structure and Algorithms,2,lecture,Mr. Said Nabi,BEE1,35
+EE222,B,Data Structure and Algorithms,2,lecture,Mr. Said Nabi,BEE2,35
+EE222L,A,Data Structures and Algorithm Lab,1,lab,TBA,BEE1,35
+EE222L,B,Data Structures and Algorithm Lab,1,lab,TBA,BEE2,35
+EE311,A,Electric Machines,3,lecture,Engr. Umar Waleed,EEE,35
+EE311,B,Electric Machines,3,lecture,Engr. Umar Waleed,EEE,35
+EE311,C,Electric Machines,3,lecture,Engr. Umar Waleed,EEP,30
+EE312,,Power Distribution and Utilization,3,lecture,Dr. Shahid Alam,EEP,30
+EE331,A,Electronic Circuits Design,3,lecture,Dr. Adnan Noor,EEE,35
+EE331,B,Electronic Circuits Design,3,lecture,Dr. Muqeet Rehman,EEE,35
+EE341,A,Signals and Systems,3,lecture,Dr. Zaiwar Ali,EEE,35
+EE341,B,Signals and Systems,3,lecture,Dr. Zaiwar Ali,EEE,35
+EE341,C,Signals and Systems,3,lecture,Dr. Nisar Ahmed,EEP,30
+EE371,A,Electromagnetic Field Theory,3,lecture,Dr. Arbab Abdur Rahim,EEE,35
+EE371,B,Electromagnetic Field Theory,3,lecture,Dr. Waleed Sethi,EEE,35
+EE371,C,Electromagnetic Field Theory,3,lecture,Dr. Waleed Sethi,EEP,30
+EE411,C,Power System Analysis,3,lecture,Dr. Shahid Alam,EEP,18
+EE412,C,Power System Protection,3,lecture,Dr. Ammar Arshad,EEP,18
+EE414,,Renewable Energy Systems,3,lecture,Dr. Ammar Arshad,EEE,45
+EE441,A,Digital Signal Processing,3,lecture,Dr. Ahmad Kamal,EEE1,25
+EE441,B,Digital Signal Processing,3,lecture,Dr. Ahmad Kamal,EEE2,25
+EE452,,Introduction to Robotics,3,lecture,Dr. Adnan Noor,EEE,45
+EE455,,Digital Control Systems,3,lecture,Dr. Dur-e-Zehra Baig,EEE,45
+EE471,A,Wave Propagation and Antennas,3,lecture,Dr. Husnul Maab,EEE1,25
+EE471,B,Wave Propagation and Antennas,3,lecture,Dr. Husnul Maab,EEE2,18
+EE4XX,,Elective-2,3,lecture,Dr. Muqeet Rehman,EEE,45
+EM431,A,Business Plan for New Ventures,3,lecture,Dr. Sajid Khan,MGS,20
+EM432,A,Digital Marketing,3,lecture,Dr. Shakir Sardar,MGS,20
+ES205,A,Advanced Linear Algebra,3,lecture,Dr. Babar Zaman,DS,55
+ES205,B,Advanced Linear Algebra,3,lecture,Dr. Babar Zaman,CYS,45
+ES205,C,Advanced Linear Algebra,3,lecture,Dr. Asad Mehmood,BCS,100
+ES205,D,Advanced Linear Algebra,3,lecture,Dr. Danyal,SE,55
+ES211,,Circuit Analysis I,3,lecture,Mr. Sadiq,BES,25
+ES211L,,Circuit Analysis I Lab,1,lab,TBA,BES,25
+ES212,,Logic Design,3,lecture,Dr. Zia Ul Haq Abbas,BES,25
+ES212L,,Logic Design Lab,1,lab,TBA,BES,25
+ES232,,Thermodynamics,3,lecture,Miss Misbah Shaheen,BES,25
+ES304,,Linear Algebra II,3,lecture,Dr. Sheharyar Pervaiz,BES,35
+ES314,,Microprocessor Systems and Interfacing,3,lecture,Mr. Sadiq,BES,35
+ES314L,,Microprocessor Systems and Interfacing Lab,1,lab,TBA,BES,35
+ES323,,Foundation of Photonics,3,lecture,Dr. Minhaj Zaheer,BES,20
+ES323L,,Foundation of Photonics Lab,1,lab,TBA,BES,20
+ES324,,Discrete System Modeling and Simulation,3,lecture,Dr. Omer Bin Saeed,BES,20
+ES324L,,Discrete System Modeling and Simulation Lab,1,lab,TBA,BES,20
+ES332,,Signals and System,3,lecture,Dr. Asad Mehmood,BES,35
+ES332L,,Signals and System Lab,1,lab,TBA,BES,35
+ES341,A,Numerical Analysis,3,lecture,Dr. Sirajul Haq,BME,80
+ES425,,Fiber-Optics Communication,3,lecture,Dr. Usman Habib,ES,5
+ES426,,VLSI,3,lecture,Mr. M. Saqib,ES,5
+ES441,,Engineering Optimization,3,lecture,Dr. Minhaj Zaheer,ES,15
+ES441L,,Engineering Optimization Lab,1,lab,TBA,ES,15
+ES442,,Machine Learning,3,lecture,Mr. Asif Ahmad,ES,15
+ES442L,,Machine Learning Lab,1,lab,TBA,ES,15
+ES471,,Model Engineering,3,lecture,Mr. Sadiq,ES,15
+ES471L,,Model Engineering Lab,1,lab,TBA,ES,15
+ES474,,Optoelectronics,3,lecture,Dr. Muhammad Usman,ES,5
+ES474L,,Optoelectronics Lab,1,lab,TBA,ES,5
+HM101,A,Communication Skills,2,lecture,Mr. Abrar Ahmad,BME,100
+HM101,B,Communication Skills,2,lecture,Dr. Noreen Shah,CVE,100
+HM101,C,Communication Skills,2,lecture,Mr. Haseeb Ahsan,CME,100
+HM101,D,Communication Skills,2,lecture,Mr. Atta ur Rehman Jadoon,BEE1,75
+HM101,E,Communication Skills,2,lecture,Mr. Atta ur Rehman Jadoon,BEE2,75
+HM101,F,Communication Skills,2,lecture,Mr. Atta ur Rehman Jadoon,BAI,55
+HM101,G,Communication Skills,2,lecture,Mr. Haseeb Ahsan,CYS,100
+HM101,H,Communication Skills,2,lecture,Ms. Hira Ahad,BCS,100
+HM101,I,Communication Skills,2,lecture,Ms. Hira Ahad,BDS,50
+HM101,J,Communication Skills,2,lecture,Ms. Hira Ahad,BCE,40
+HM101,K,Communication Skills,1,lecture,Ms. Bakhtawar Rubab,MGS1,50
+HM101,L,Communication Skills,1,lecture,Ms. Bakhtawar Rubab,MGS2,50
+HM101,M,Communication Skills,1,lecture,Ms. Bakhtawar Rubab,MGS3,50
+HM101L,A,Communication Skills Lab,1,lab,Mr. Abrar Ahmad,BME,100
+HM101L,B,Communication Skills Lab,1,lab,Dr. Noreen Shah,CVE,100
+HM101L,C,Communication Skills Lab,1,lab,Mr. Haseeb Ahsan,CME,100
+HM101L,D,Communication Skills Lab,1,lab,Mr. Atta ur Rehman Jadoon,BEE1,75
+HM101L,E,Communication Skills Lab,1,lab,Mr. Atta ur Rehman Jadoon,BEE2,75
+HM101L,F,Communication Skills Lab,1,lab,Mr. Atta ur Rehman Jadoon,BAI,55
+HM101L,G,Communication Skills Lab,1,lab,Mr. Haseeb Ahsan,CYS,100
+HM101L,H,Communication Skills Lab,1,lab,Ms. Hira Ahad,BCS,100
+HM101L,I,Communication Skills Lab,1,lab,Ms. Hira Ahad,BDS,50
+HM101L,J,Communication Skills Lab,1,lab,Ms. Hira Ahad,BCE,40
+HM111,A,Islamic Studies / Ethics,2,lecture,Mr. Fida ur Rehman,MGS1,50
+HM111,B,Islamic Studies / Ethics,2,lecture,Mr. Fida ur Rehman,MGS2,50
+HM111,C,Islamic Studies / Ethics,2,lecture,Mr. Fida ur Rehman,MGS3,50
+HM203,A,Business Communication,3,lecture,Dr. Noreen Shah,MGS1,45
+HM203,B,Business Communication,3,lecture,Dr. Noreen Shah,MGS2,45
+HM211,A,Islamic Studies,2,lecture,Mr. Fida ur Rehman,BEE,74
+HM211,B,Islamic Studies,2,lecture,Mr. Fida ur Rehman,BES,68
+HM212,A,Ideology and Constitution of Pakistan,2,lecture,Mr. Abrar Ahmad,BEE,75
+HM212,B,Ideology and Constitution of Pakistan,2,lecture,Mr. Abrar Ahmad,BME,54
+HM212,C,Ideology and Constitution of Pakistan,2,lecture,Mr. Abrar Ahmad,BES,74
+HM222,A,Art of Learning,2,lecture,Dr. Rubeena Slamat,MGS1,45
+HM222,B,Art of Learning,2,lecture,Dr. Rubeena Slamat,MGS2,45
+HM321,A,Sociology and Human Behavior,3,lecture,Dr. Rubeena Slamat,CME,45
+HM321,B,Sociology and Human Behavior,3,lecture,Dr. Rubeena Slamat,BES,30
+HM322,A,Corporate Law and Professional Ethics,3,lecture,Mr. Izhar Ali,BEE,90
+HM322,B,Corporate Law and Professional Ethics,3,lecture,Mr. Izhar Ali,BME,72
+IF101L,A,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,BME,100
+IF101L,B,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,CVE,100
+IF101L,C,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,CME,100
+IF101L,D,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,BEE1,130
+IF101L,E,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,BEE2,130
+IF101L,F,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,BAI,55
+IF101L,G,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,CYS,100
+IF101L,H,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,BCS,100
+IF101L,I,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,BCE,100
+IF101L,K,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,MGS1,75
+IF101L,L,Innovation and Makers Lab,1,lab,Engr. Faheem Ahmed,MGS2,75
+ME203,A,Circuits and Electronic Devices,3,lecture,Salman Shah,BME1,30
+ME203,B,Circuits and Electronic Devices,3,lecture,Salman Shah,BME2,30
+ME211,A,Statics,2,lecture,Engr. Shahab Alam,BME1,30
+ME211,B,Statics,2,lecture,Engr. Shahab Alam,BME2,30
+ME231,A,Thermodynamics I,3,lecture,Dr. Ahmed Abbas,BME1,30
+ME231,B,Thermodynamics I,3,lecture,Dr. Ahmed Abbas,BME2,30
+ME251,,Manufacturing Process,3,lecture,Dr. M Qasim Zafar,BME,10
+ME313,A,Theory of Machines,3,lecture,Dr. Taimoor Hassan,BME1,30
+ME313,B,Theory of Machines,3,lecture,Dr. Taimoor Hassan,BME2,30
+ME314,A,Mechanics of Solids II,2,lecture,Dr. Massab Junaid,BME1,30
+ME314,B,Mechanics of Solids II,2,lecture,Dr. Massab Junaid,BME2,30
+ME321,A,Fluid Mechanics I,3,lecture,Dr. Ali Turab Jafry,BME1,30
+ME321,B,Fluid Mechanics I,3,lecture,Dr. Ali Turab Jafry,BME2,30
+ME363,A,Design of Machine Elements I,2,lecture,Dr. Khalid Rehman,BME1,30
+ME363,B,Design of Machine Elements I,2,lecture,Dr. Khalid Rehman,BME2,30
+ME403,A,Electrical Machines and Drives,3,lecture,Dr. Arsalan Arif,BME1,35
+ME403,B,Electrical Machines and Drives,3,lecture,Dr. Arsalan Arif,BME2,35
+ME404,,AI for Mechanical Engineers,3,lecture,Engr. Shahab Alam,BME,40
+ME419,,Fundamentals of Composite Materials,3,lecture,Dr. Shahzad Ahmad,BME,40
+ME423,,Computational Fluid Dynamics,3,lecture,Mr. Faheem Ahmed,BME,70
+ME439,,Heating Ventilation and Air Conditioning,3,lecture,Mr. Hamza Abbas,BME,40
+ME452,,Robotics,3,lecture,Dr. Abid Imran,BME,30
+ME464,A,System Dynamics and Control,3,lecture,Dr. Shakeel Afzal,BME1,35
+ME464,B,System Dynamics and Control,3,lecture,Dr. Shakeel Afzal,BME2,35
+ME481,,Senior Year Design Project 2,2,lecture,Dr. M Qasim Zafar,BME,70
+MM101,C,Materials and Nanotechnology,2,lecture,Dr. Shanza,CME,100
+MM101,D,Materials and Nanotechnology,2,lecture,Dr. Shanza,BEE1,130
+MM101,E,Materials and Nanotechnology,2,lecture,Dr. Shanza,BEE2,130
+MM101,F,Materials and Nanotechnology,2,lecture,Dr. Shanza,BAI,55
+MM101,G,Materials and Nanotechnology,2,lecture,Dr. Hamza,CYS,100
+MM101,H,Materials and Nanotechnology,2,lecture,Dr. Hamza,BCS,100
+MM101,I,Materials and Nanotechnology,2,lecture,Dr. Hamza,BDS,50
+MM212,,Materials Evaluation Techniques,3,lecture,Engr. Ateeq,MTE,25
+MM214,,Mineral Processing and Extractive Metallurgy,2,lecture,Engr. Abdullah,MTE,25
+MM231,,Thermodynamics of Materials,3,lecture,Dr. Rashid,MTE,25
+MM323,,Crystallography and X-ray Diffraction,3,lecture,Dr. Imran Khan,MTE,25
+MM324,,Deformation and Fracture,3,lecture,Dr. Zameer,MTE,25
+MM334,,Heat Treatment and Processing,3,lecture,Dr. Hamza,MTE,25
+MM351,,Joining of Materials,3,lecture,Dr. Tauheed,MTM,15
+MM391,,Nanomaterials and Nanotechnology-I,3,lecture,Mr. Abdullah,MTN,15
+MM435,,Corrosion Degradation and Protection,3,lecture,Dr. Ramzan,MTM,20
+MM436,,Surface Engineering,3,lecture,Dr. Tauheed,MTM,20
+MM453,,CAD/CAM,3,lecture,Dr. Rashid,MTM,20
+MM454,,Powder Metallurgy,3,lecture,Engr. Ateeq,MTM,20
+MM494,,Materials Characterization,3,lecture,Dr. Imran Khan,MTM,20
+MS101,A,Business Mathematics,3,lecture,Dr. Amin Ullah,MGS1,50
+MS101,B,Business Mathematics,3,lecture,Dr. Amin Ullah,MGS2,50
+MS101,C,Business Mathematics,3,lecture,Dr. Amin Ullah,MGS3,50
+MS121,A,Fundamentals of Management,3,lecture,Mr. Haroom ur Rashid,MGS1,50
+MS121,B,Fundamentals of Management,3,lecture,Mr. Haroom ur Rashid,MGS2,50
+MS121,C,Fundamentals of Management,3,lecture,Mr. Haroom ur Rashid,MGS3,50
+MS131,A,Principles of Marketing,3,lecture,Ms. Naveen Gul,MGS1,50
+MS131,B,Principles of Marketing,3,lecture,Ms. Naveen Gul,MGS2,50
+MS131,C,Principles of Marketing,3,lecture,Ms. Naveen Gul,MGS3,50
+MS222,A,Organizational Behavior,3,lecture,Dr. Saima Aftab,MGS1,45
+MS222,B,Organizational Behavior,3,lecture,Dr. Saima Aftab,MGS2,45
+MS232,A,Marketing Management,3,lecture,Dr. Abid Ullah,MGS1,45
+MS232,B,Marketing Management,3,lecture,Dr. Abid Ullah,MGS2,45
+MS242,A,Macroeconomics,3,lecture,Ms. Umm e Rabab,MGS1,45
+MS242,B,Macroeconomics,3,lecture,Ms. Umm e Rabab,MGS2,45
+MS252,A,Management Accounting,3,lecture,Dr. M. Shariq,MGS1,45
+MS252,B,Management Accounting,3,lecture,Dr. M. Shariq,MGS2,45
+MS291,A,Engineering Economy,2,lecture,Dr. M. Sabir,BME,54
+MS311,A,Business Ethics,3,lecture,Dr. Sajid Khan,MGS1,30
+MS311,B,Business Ethics,3,lecture,Dr. Sajid Khan,MGS2,30
+MS312,A,Logic,3,lecture,Mr. Aymen Habib,MGS,60
+MS343,A,Pakistan Economy,3,lecture,Mr. Umer Saeed,MGS1,30
+MS343,B,Pakistan Economy,3,lecture,Mr. Umer Saeed,MGS2,30
+MS355,A,Financial Management,3,lecture,Dr. Noshaba Zulfiqar,MGS1,30
+MS355,B,Financial Management,3,lecture,Dr. Noshaba Zulfiqar,MGS2,30
+MS357,A,Financial Econometrics,3,lecture,Ms. Umm e Rabab,MGS,40
+MS359,A,Legal and Taxation Issues,3,lecture,Mr. Muhammad Ahmad Zaka,MGS,40
+MS362,A,Supply Chain Management,3,lecture,Mr. Hassaan Tariq,MGS,40
+MS426,A,Project Management,3,lecture,Dr. Suhaib,MGS,40
+MS434,A,Entrepreneurship and Marketing,3,lecture,Mr. Aymen Habib,MGS,80
+MS444,A,Environmental Sciences,3,lecture,Dr. Shakir Sardar,MGS,50
+MS448,A,Macro and International Economics,3,lecture,Mr. Umer Saeed,MGS,80
+MS458,A,Corporate Finance,3,lecture,Dr. M. Shariq,MGS,40
+MS471,A,Research Project I,3,lecture,Dr. Sami Farooq,MGS,50
+MS490,A,Engineering Economics and Management,3,lecture,Dr. M. Sabir,EEE,70
+MS490,B,Engineering Economics and Management,3,lecture,Dr. M. Sabir,BDS,45
+MS491,A,Supply Chain Management,3,lecture,Mr. Hassaan Tariq,MGS,80
+MT101,A,Calculus I,2,lecture,Mr. Mutti ur Rahman,BME,100
+MT101,B,Calculus I,2,lecture,Mr. Mutti ur Rahman,CVE,100
+MT101,C,Calculus I,3,lecture,Dr. Nasir Javed,CME,100
+MT101,D,Calculus I,3,lecture,Dr. Omer Bin Saeed,BEE1,130
+MT101,E,Calculus I,3,lecture,Dr. Omer Bin Saeed,BEE2,130
+MT101,F,Calculus I,3,lecture,Dr. Danyal,BAI,55
+MT101,G,Calculus I,3,lecture,Mr. Asif,CYS,100
+MT101,H,Calculus I,3,lecture,Dr. Usman Habib,BCS,100
+MT101,I,Calculus I,3,lecture,Dr. Taj,BCE,100
+MT101,J,Calculus I,3,lecture,Dr. Taj,BDS,100
+MT201,D,Calculus II,3,lecture,Dr. Zahid Ahmad,BEE,75
+MT202,A,Calculus II,3,lecture,Dr. Mahnoor Sarfraz,CME,55
+MT202,B,Calculus II,3,lecture,Dr. Mahnoor Sarfraz,BME,65
+MT202,C,Calculus II,3,lecture,Dr. Sheharyar Pervaiz,BES,75
+MT202,D,Calculus II,3,lecture,Dr. Zahid Ahmad,BEE,75
+PH101,A,Applied Physics,3,lecture,Dr. Zahir Iqbal,BME,100
+PH101,B,Applied Physics,3,lecture,Dr. Tahir Naseem,CVE,100
+PH101,F,Applied Physics,3,lecture,Mr. Mazhar Javed,BAI,55
+PH101,G,Applied Physics,3,lecture,Mr. Saqib,CYS,100
+PH101,H,Applied Physics,3,lecture,Mr. Saqib,BCS,100
+PH101,I,Applied Physics,3,lecture,Mr. Mazhar Javed,BCE,100
+PH101,J,Applied Physics,3,lecture,Mr. Mazhar Javed,BDS,100
+PH101L,A,Applied Physics Lab,1,lab,TBA,BME,100
+PH101L,B,Applied Physics Lab,1,lab,TBA,CVE,100
+PH101L,F,Applied Physics Lab,1,lab,TBA,BAI,55
+PH101L,G,Applied Physics Lab,1,lab,TBA,CYS,100
+PH101L,H,Applied Physics Lab,1,lab,TBA,BCS,100
+PH101L,I,Applied Physics Lab,1,lab,TBA,BCE,100
+PH101L,J,Applied Physics Lab,1,lab,TBA,BDS,100
+SC461,A,Planning and Control System,3,lecture,Mr. Hassaan Tariq,MGS,20
+SC462,A,Business Logistic Strategy,3,lecture,Mr. Aymen Habib,MGS,20
+SE201,F,Software Engineering,3,lecture,Ms. Laraib Afzal,SE,50
+SE322,,Software Design and Architecture,3,lecture,Mr. Said Nabi,SE,45
+SE322L,,Software Design and Architecture Lab,1,lab,Ms. Mah Rukh,SE,45
