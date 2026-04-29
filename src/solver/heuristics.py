@@ -2,7 +2,6 @@ from __future__ import annotations
 
 import random
 from collections.abc import Iterable
-from datetime import time as dt_time
 
 from src.models.course import CourseSession
 from src.solver.constraints import AssignmentOption, is_assignment_consistent
@@ -63,15 +62,15 @@ def order_domain_values(
 		def soft_score(option: AssignmentOption) -> tuple[float, str, int, object, object]:
 			timeslot_score = 0.0
 			if prefers_morning:
-				start_time = option.timeslot.start_time
-				if start_time < dt_time(12, 0):
-					timeslot_score = -2.0
+				start_label = option.timeslot.start_time.strftime("%H:%M")
+				if start_label in {"08:00", "09:00", "10:30", "11:30"}:
+					timeslot_score = -1.0
 			capacity_score = abs(option.room.capacity - ideal_capacity) / 100.0
-			total_score = timeslot_score + capacity_score
+			noise = random.uniform(0, 0.1)
+			total_score = timeslot_score + capacity_score + noise
 			return (
 				total_score,
 				option.room.room_id,
-				DAY_RANK.get(option.timeslot.day, 99),
 				option.timeslot.start_time,
 				option.timeslot.end_time,
 			)
